@@ -34,8 +34,8 @@ It allows you to:
 
 ## 📂 Project Structure
 ```
-FlightPassengerSystem/
-│── Flight_Passenger_Information_System_by_BADHON.cpp        # Source code
+Flight_Passenger_Info_Project_DSA/
+│── main.cpp        # Source code
 │── README.md       # Project documentation
 ```
 
@@ -44,7 +44,7 @@ FlightPassengerSystem/
 ## 📖 How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/FlightPassengerSystem.git
+   git clone https://github.com/your-username/Flight_Passenger_Info_Project_DSA.git
    ```
 2. Navigate to the project folder:
    ```bash
@@ -52,7 +52,7 @@ FlightPassengerSystem/
    ```
 3. Compile the program:
    ```bash
-   g++ Flight_Passenger_Information_System_by_BADHON.cpp -o flight_system
+   g++ main.cpp -o flight_system
    ```
 4. Run the executable:
    ```bash
