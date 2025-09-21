@@ -44,7 +44,7 @@ Flight_Passenger_Info_Project_DSA/
 ## 📖 How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Flight_Passenger_Info_Project_DSA.git
+   git clone https://github.com/rzhbadhon/Flight_Passenger_Info_Project_DSA.git
    ```
 2. Navigate to the project folder:
    ```bash
